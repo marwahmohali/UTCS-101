@@ -1,0 +1,7 @@
+D:\GitHub\UTCS-101\ExercisesCsharp\ExercisesCsharp\bin\Debug\ExercisesCsharp.exe.config
+D:\GitHub\UTCS-101\ExercisesCsharp\ExercisesCsharp\bin\Debug\ExercisesCsharp.exe
+D:\GitHub\UTCS-101\ExercisesCsharp\ExercisesCsharp\bin\Debug\ExercisesCsharp.pdb
+D:\GitHub\UTCS-101\ExercisesCsharp\ExercisesCsharp\obj\Debug\ExercisesCsharp.csprojAssemblyReference.cache
+D:\GitHub\UTCS-101\ExercisesCsharp\ExercisesCsharp\obj\Debug\ExercisesCsharp.csproj.CoreCompileInputs.cache
+D:\GitHub\UTCS-101\ExercisesCsharp\ExercisesCsharp\obj\Debug\ExercisesCsharp.exe
+D:\GitHub\UTCS-101\ExercisesCsharp\ExercisesCsharp\obj\Debug\ExercisesCsharp.pdb

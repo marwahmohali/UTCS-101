@@ -1,0 +1,7 @@
+D:\GitHub\UTCS-101\CSC101F2020\welcome2\bin\Debug\welcome2.exe.config
+D:\GitHub\UTCS-101\CSC101F2020\welcome2\bin\Debug\welcome2.exe
+D:\GitHub\UTCS-101\CSC101F2020\welcome2\bin\Debug\welcome2.pdb
+D:\GitHub\UTCS-101\CSC101F2020\welcome2\obj\Debug\welcome2.csprojAssemblyReference.cache
+D:\GitHub\UTCS-101\CSC101F2020\welcome2\obj\Debug\welcome2.csproj.CoreCompileInputs.cache
+D:\GitHub\UTCS-101\CSC101F2020\welcome2\obj\Debug\welcome2.exe
+D:\GitHub\UTCS-101\CSC101F2020\welcome2\obj\Debug\welcome2.pdb

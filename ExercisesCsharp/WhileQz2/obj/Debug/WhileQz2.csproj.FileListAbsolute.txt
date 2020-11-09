@@ -1,0 +1,6 @@
+D:\GitHub\UTCS-101\ExercisesCsharp\WhileQz2\obj\Debug\WhileQz2.csproj.CoreCompileInputs.cache
+D:\GitHub\UTCS-101\ExercisesCsharp\WhileQz2\bin\Debug\WhileQz2.exe.config
+D:\GitHub\UTCS-101\ExercisesCsharp\WhileQz2\bin\Debug\WhileQz2.exe
+D:\GitHub\UTCS-101\ExercisesCsharp\WhileQz2\bin\Debug\WhileQz2.pdb
+D:\GitHub\UTCS-101\ExercisesCsharp\WhileQz2\obj\Debug\WhileQz2.exe
+D:\GitHub\UTCS-101\ExercisesCsharp\WhileQz2\obj\Debug\WhileQz2.pdb

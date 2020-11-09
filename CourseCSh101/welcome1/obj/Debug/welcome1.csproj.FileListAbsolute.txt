@@ -1,0 +1,7 @@
+D:\GitHub\UTCS-101\CourseCSh101\welcome1\bin\Debug\welcome1.exe.config
+D:\GitHub\UTCS-101\CourseCSh101\welcome1\bin\Debug\welcome1.exe
+D:\GitHub\UTCS-101\CourseCSh101\welcome1\bin\Debug\welcome1.pdb
+D:\GitHub\UTCS-101\CourseCSh101\welcome1\obj\Debug\welcome1.csprojAssemblyReference.cache
+D:\GitHub\UTCS-101\CourseCSh101\welcome1\obj\Debug\welcome1.csproj.CoreCompileInputs.cache
+D:\GitHub\UTCS-101\CourseCSh101\welcome1\obj\Debug\welcome1.exe
+D:\GitHub\UTCS-101\CourseCSh101\welcome1\obj\Debug\welcome1.pdb

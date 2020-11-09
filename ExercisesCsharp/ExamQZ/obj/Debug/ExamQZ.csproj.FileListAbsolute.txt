@@ -1,0 +1,7 @@
+D:\GitHub\UTCS-101\ExercisesCsharp\ExamQZ\bin\Debug\ExamQZ.exe.config
+D:\GitHub\UTCS-101\ExercisesCsharp\ExamQZ\bin\Debug\ExamQZ.exe
+D:\GitHub\UTCS-101\ExercisesCsharp\ExamQZ\bin\Debug\ExamQZ.pdb
+D:\GitHub\UTCS-101\ExercisesCsharp\ExamQZ\obj\Debug\ExamQZ.csprojAssemblyReference.cache
+D:\GitHub\UTCS-101\ExercisesCsharp\ExamQZ\obj\Debug\ExamQZ.csproj.CoreCompileInputs.cache
+D:\GitHub\UTCS-101\ExercisesCsharp\ExamQZ\obj\Debug\ExamQZ.exe
+D:\GitHub\UTCS-101\ExercisesCsharp\ExamQZ\obj\Debug\ExamQZ.pdb

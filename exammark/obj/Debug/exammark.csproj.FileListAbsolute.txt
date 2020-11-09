@@ -1,0 +1,7 @@
+D:\GitHub\UTCS-101\exammark\obj\Debug\exammark.csprojAssemblyReference.cache
+D:\GitHub\UTCS-101\exammark\obj\Debug\exammark.csproj.CoreCompileInputs.cache
+D:\GitHub\UTCS-101\exammark\bin\Debug\exammark.exe.config
+D:\GitHub\UTCS-101\exammark\bin\Debug\exammark.exe
+D:\GitHub\UTCS-101\exammark\bin\Debug\exammark.pdb
+D:\GitHub\UTCS-101\exammark\obj\Debug\exammark.exe
+D:\GitHub\UTCS-101\exammark\obj\Debug\exammark.pdb

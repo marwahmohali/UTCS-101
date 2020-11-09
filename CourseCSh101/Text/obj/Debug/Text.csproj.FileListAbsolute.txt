@@ -1,0 +1,7 @@
+D:\GitHub\UTCS-101\CourseCSh101\Text\bin\Debug\Text.exe.config
+D:\GitHub\UTCS-101\CourseCSh101\Text\bin\Debug\Text.exe
+D:\GitHub\UTCS-101\CourseCSh101\Text\bin\Debug\Text.pdb
+D:\GitHub\UTCS-101\CourseCSh101\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+D:\GitHub\UTCS-101\CourseCSh101\Text\obj\Debug\Text.exe
+D:\GitHub\UTCS-101\CourseCSh101\Text\obj\Debug\Text.pdb
+D:\GitHub\UTCS-101\CourseCSh101\Text\obj\Debug\Text.csprojAssemblyReference.cache
